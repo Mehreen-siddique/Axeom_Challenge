@@ -1,16 +1,15 @@
-# Daily Progress Log - Axeom Data Operations
+# Daily Execution Log — Axeom Challenge
 
-## Phase 1: Data Ingestion, Inspection & Cleaning
-- **Core Files Cleaned**: Successfully inspected and cleaned `leads.csv`, `bookings.csv`, `invoices.csv`, `payments.csv`, `production_board.csv`, `costs.csv`, and `team.csv`.
-- **Handling Missing Values**:
-  - Dropped `notice_onboard` column from the production board due to excessive missing data (~70-81% empty).
-  - Filled missing values in production board operational columns (`client_approved`, `shoot_booking`) using safe default markers (`'Not Approved Yet'`, `'Unlinked'`) rather than dropping rows, preserving important historical context.
-  - Handled 56 null values in the invoices `memo` column using descriptive fallbacks.
-  - Resolved missing pay data in `team.csv` with `"Not Decided"` to prevent downstream runtime errors.
-- **Unstructured Data Review**: Loaded and inspected `messages.txt` as a raw qualitative text record containing multi-platform (WhatsApp, Instagram, Email) communications to trace lost client requests.
+## Day 1: Discovery, Data Auditing & Root Cause Analysis
+* **Data Ingestion & Cleaning:** Parsed the raw lead logs, identifying 102 total leads, 20 confirmed bookings, and 82 lost requests (yielding a 19.61% conversion rate).
+* **Financial Verification:** Audited financial logs and confirmed $0.00 in overdue payments.
+* **Diagnosis:** Mapped out operational bottlenecks, pinpointing communication fragmentation and lack of systematic follow-ups as primary failure drivers.
 
-## Phase 2: Data Reconciliation & Merging
-- **Leads & Bookings Integration**: Merged `leads.csv` and `bookings.csv` via client identifiers. 
-  - *Finding*: Out of 113 total leads, only 20 successfully converted into bookings, uncovering a massive drop-off gap of 93 un-converted leads.
-- **Financial Reconciliation (`Invoices` & `Payments`)**: 
-  - Integrated `invoices.csv` and `payments.csv` using client/payer name mappings (`bill_to` -> `payer`) to reconcile billed amounts against actual incoming bank transactions and track unpaid balances.
+## Day 2: Strategic Solution Design & JSON Structuring
+* **Framework Formulation:** Designed the "Monday Top 3" operational fix focusing on centralization, rapid response SLAs, and automated tracking.
+* **`answers.json` Population:** Structured and populated all analytical fields, metrics, and core qualitative explanations into the required schema.
+
+## Day 3: Dashboard Engineering, Deployment & Final Polish
+* **Dashboard Development:** Built a responsive, interactive Streamlit analytics dashboard (`app.py`) incorporating Pandas and Plotly metrics visualization.
+* **Environment & Deployment:** Configured project files (`requirements.txt`, repository structure) and initiated deployment workflows to bring the solution live.
+* **Submission Wrap-up:** Compiled project documentation (`assumptions.md`, `daily-logs.md`) and finalized submission links.
