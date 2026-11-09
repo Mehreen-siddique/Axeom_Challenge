@@ -1,0 +1,2091 @@
+{
+  "pack_id": "PUT YOUR PACK NUMBER HERE (see PACK.txt)",
+  "your_name": "Mehreen Siddique",
+  "your_email": "mehreensiddique50@gmail.com",
+
+  "live_link": "",
+  "video_link": "",
+  "code_or_files_link": "https://colab.research.google.com/drive/1yLb9vffG6POGuYol02m6x6TdNqfBfYAx?usp=sharing",
+
+  "client_count": 155,
+  "clients": [
+    { "name": "Aisha Novak", "other_names_used_in_the_data": [], "emails": ["aisha@novakyogastudio.com"], "phones": ["214-555-0141"] },
+     {
+      "name": "Alan Price",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "alanprice51@gmail.com"
+      ],
+      "phones": [
+        "972-555-0112"
+      ]
+    },
+    {
+      "name": "Alan Sullivan",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "info@sullivanfamilylaw.com"
+      ],
+      "phones": [
+        "469-555-0116"
+      ]
+    },
+     {
+      "name": "Alana Price",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "alana@pricefamilydentistry.com"
+      ],
+      "phones": [
+        "817-555-0150"
+      ]
+    },
+    {
+      "name": "Alana Wallace",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "alana@wallacepetgrooming.com"
+      ],
+      "phones": [
+        "972-555-0105"
+      ]
+    },
+    {
+      "name": "Andre Becker",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "andre@beckerpetgrooming.com"
+      ],
+      "phones": [
+        "469-555-0137"
+      ]
+    },
+      {
+      "name": "Andre Kim",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "andre.kim.detail@gmail.com"
+      ],
+      "phones": [
+        "972-555-0176"
+      ]
+    },
+    {
+      "name": "Angela Cole",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "angela@thecanyonlab.coffee"
+      ],
+      "phones": [
+        "469-555-0155"
+      ]
+    },
+    {
+      "name": "Bayou Barbershop",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "sam@bayoubarbers.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Bluebonnet PT",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mwebb@bluebonnetptdallas.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Bluebonnet PT Dallas",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mwebb@bluebonnetptdallas.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Bluebonnet Physical Therapy",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mwebb@bluebonnetptdallas.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Brooke Daniels",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "brooke@clearwatermedspa.com",
+        "frisco@clearwatermedspa.com"
+      ],
+      "phones": [
+        "817-555-0115"
+      ]
+    },
+    {
+      "name": "C&C Podcast",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "renee@calmandcollected.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Calm & Collected",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "renee@calmandcollected.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Calm & Collected Podcast",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "renee@calmandcollected.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Calm and Collected",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "renee@calmandcollected.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Canyonlab Coffee",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "angela@thecanyonlab.coffee"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Carlos Webb",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "carlos@webbcoffee.com"
+      ],
+      "phones": [
+        "817-555-0140"
+      ]
+    },
+    {
+      "name": "Carmen Lee",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "carmen@leebakery.com"
+      ],
+      "phones": [
+        "469-555-0171"
+      ]
+    },
+    {
+      "name": "Carmen Lopez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "carmen@lopezpediatrics.com"
+      ],
+      "phones": [
+        "214-555-0110"
+      ]
+    },
+    {
+      "name": "Cedar",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kim@cedarfit.co"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Cedar Fitness",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kim@cedarfit.co"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Clearwater",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "brooke@clearwatermedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Clearwater Med Spa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "brooke@clearwatermedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Clearwater Med Spa - Frisco",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "brooke@clearwatermedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Copperline Builders",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "femi@copperline.build"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Copperline Builders LLC",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "femi@copperline.build"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Crypto Deals",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "deals@coin-x.io"
+      ],
+      "phones": [
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Dallas Builders",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "david@dallasbuilders.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Dallas Builders Podcast",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "david@dallasbuilders.fm"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Dana Bennett",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dana@bennettroofing.com"
+      ],
+      "phones": [
+        "817-555-0199"
+      ]
+    },
+    {
+      "name": "Dana Ortiz",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dana@ortizhvac.com"
+      ],
+      "phones": [
+        "469-555-0142"
+      ]
+    },
+    {
+      "name": "Darnell Malik",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "media@riverbenddfw.org"
+      ],
+      "phones": [
+        "817-555-0190"
+      ]
+    },
+    {
+      "name": "Darnell Torres",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "darnell@torresfitness.com",
+        "darnell@torresdentalcare.com"
+      ],
+      "phones": [
+        "469-555-0158",
+        "972-555-0106"
+      ]
+    },
+    {
+      "name": "David Castillo",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "david@dallasbuilders.fm"
+      ],
+      "phones": [
+        "972-555-0152"
+      ]
+    },
+    {
+      "name": "David Fischer",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dfischer@kingsleywp.com"
+      ],
+      "phones": [
+        "214-555-0115"
+      ]
+    },
+    {
+      "name": "Delgado Dental",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "hello@delgadodental.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Delgado Dental PLLC",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "hello@delgadodental.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Dr. Joy Delgado",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "hello@delgadodental.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Erin Foster",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "efoster@lakesidepeds.com"
+      ],
+      "phones": [
+        "817-555-0136"
+      ]
+    },
+    {
+      "name": "Erin Moore",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "erin@mooretaxservices.com"
+      ],
+      "phones": [
+        "214-555-0164"
+      ]
+    },
+    {
+      "name": "Femi Shah",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "femi@copperline.build"
+      ],
+      "phones": [
+        "817-555-0175"
+      ]
+    },
+    {
+      "name": "Free followers",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "promo@fastfollowers.io"
+      ],
+      "phones": [
+        "Unknown"
+      ]
+    },
+    {
+      "name": "Greg Brooks",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "greg@brookstaxservices.com"
+      ],
+      "phones": [
+        "817-555-0134"
+      ]
+    },
+    {
+      "name": "Greg Foster",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "greg@fosterdentalcare.com"
+      ],
+      "phones": [
+        "469-555-0157"
+      ]
+    },
+    {
+      "name": "Greg Ochoa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "greg@gregsroofingtx.com"
+      ],
+      "phones": [
+        "469-555-0192"
+      ]
+    },
+    {
+      "name": "Gregs Roofing",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "greg@gregsroofingtx.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Highland",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@highlandmedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Highland Med Spa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@highlandmedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Highland Med Spa - Plano",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@highlandmedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Highland Medspa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@highlandmedspa.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Isaac Grant",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "isaac@oakcliffrg.com"
+      ],
+      "phones": [
+        "469-555-0190"
+      ]
+    },
+    {
+      "name": "Ivy Hale",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "ivy@halebakery.com"
+      ],
+      "phones": [
+        "469-555-0119"
+      ]
+    },
+    {
+      "name": "Ivy Ochoa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "ivy@ochoapediatrics.com"
+      ],
+      "phones": [
+        "972-555-0167"
+      ]
+    },
+    {
+      "name": "Ivy Whitfield",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "ivy@sagebridal.com"
+      ],
+      "phones": [
+        "214-555-0181"
+      ]
+    },
+    {
+      "name": "Jared Cole",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jared@colebakery.com"
+      ],
+      "phones": [
+        "817-555-0191"
+      ]
+    },
+    {
+      "name": "Jen Becker",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@beckerdentalcare.com"
+      ],
+      "phones": [
+        "972-555-0168"
+      ]
+    },
+    {
+      "name": "Jen Hale",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jhale@maplefamilytherapy.com"
+      ],
+      "phones": [
+        "972-555-0151"
+      ]
+    },
+    {
+      "name": "Jen Park",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@parksalon.com"
+      ],
+      "phones": [
+        "817-555-0155"
+      ]
+    },
+    {
+      "name": "Jen Zamora",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jen@highlandmedspa.com"
+      ],
+      "phones": [
+        "214-555-0124"
+      ]
+    },
+    {
+      "name": "Jordan Mendez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jordan@jordansroofingtx.com"
+      ],
+      "phones": [
+        "469-555-0118"
+      ]
+    },
+    {
+      "name": "Jordan Price",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jprice@pricelaw.com"
+      ],
+      "phones": [
+        "469-555-0103"
+      ]
+    },
+    {
+      "name": "Jordan's Roofing",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jordan@jordansroofingtx.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Jordan's Roofing LLC",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jordan@jordansroofingtx.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Jordans Roofing",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jordan@jordansroofingtx.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Joy Delgado",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "hello@delgadodental.com"
+      ],
+      "phones": [
+        "817-555-0133"
+      ]
+    },
+    {
+      "name": "Kelsey Foster",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kelseyfoster44@gmail.com"
+      ],
+      "phones": [
+        "972-555-0115"
+      ]
+    },
+    {
+      "name": "Kelsey Sullivan",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kelsey@sullivandental.com"
+      ],
+      "phones": [
+        "214-555-0198"
+      ]
+    },
+    {
+      "name": "Kelsey Sullivan DDS",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kelsey@sullivandental.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Kevin Grant",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kevin@grantinsurance.com"
+      ],
+      "phones": [
+        "817-555-0154"
+      ]
+    },
+    {
+      "name": "Kevin Moore",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kevin@moorefamilydentistry.com"
+      ],
+      "phones": [
+        "214-555-0127"
+      ]
+    },
+    {
+      "name": "Kim Auto Detailing",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "andre.kim.detail@gmail.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Kim Hale",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kim@cedarfit.co"
+      ],
+      "phones": [
+        "469-555-0123"
+      ]
+    },
+    {
+      "name": "Kim Morales",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kim@moralesplumbing.com"
+      ],
+      "phones": [
+        "214-555-0174"
+      ]
+    },
+    {
+      "name": "Kindred Creative",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "rosa@kindredmktg.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Kingsley WP",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dfischer@kingsleywp.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Kingsley Wealth",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dfischer@kingsleywp.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Kingsley Wealth Partners",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "dfischer@kingsleywp.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Leah Haddad",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "leah@haddadsalon.com"
+      ],
+      "phones": [
+        "972-555-0134"
+      ]
+    },
+    {
+      "name": "Leah Ibarra",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "leah@ibarraroofing.com"
+      ],
+      "phones": [
+        "972-555-0104"
+      ]
+    },
+    {
+      "name": "Leah Ramirez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "leah@ramirezpediatrics.com"
+      ],
+      "phones": [
+        "469-555-0102"
+      ]
+    },
+    {
+      "name": "Leah Russo",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "leah@russoyogastudio.com"
+      ],
+      "phones": [
+        "469-555-0182"
+      ]
+    },
+    {
+      "name": "Lena Reed",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "lena@thewestlakelab.coffee"
+      ],
+      "phones": [
+        "972-555-0140"
+      ]
+    },
+    {
+      "name": "Lucia Lopez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "lucia@lopezchiropractic.com"
+      ],
+      "phones": [
+        "214-555-0130"
+      ]
+    },
+    {
+      "name": "Magnolia",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "victor@magnolia.build"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Magnolia Builders",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "victor@magnolia.build"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Magnolia Builders LLC",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "victor@magnolia.build"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Maple Family Therapy",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jhale@maplefamilytherapy.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Marcus Haddad",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "marcus@haddadlandscaping.com"
+      ],
+      "phones": [
+        "817-555-0109"
+      ]
+    },
+    {
+      "name": "Mateo Lee",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mateolee64@gmail.com"
+      ],
+      "phones": [
+        "469-555-0174"
+      ]
+    },
+    {
+      "name": "Mia Ochoa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mia@ochoapediatrics.com"
+      ],
+      "phones": [
+        "817-555-0185"
+      ]
+    },
+    {
+      "name": "Mia Webb",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mwebb@bluebonnetptdallas.com"
+      ],
+      "phones": [
+        "972-555-0199"
+      ]
+    },
+    {
+      "name": "Mike Ortiz",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mike@ortizhvac.com"
+      ],
+      "phones": [
+        "214-555-0133"
+      ]
+    },
+    {
+      "name": "Mike Webb",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "mike@webbpetgrooming.com"
+      ],
+      "phones": [
+        "972-555-0138"
+      ]
+    },
+    {
+      "name": "Morales Auto",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "priya.morales.detail@gmail.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Morales Detailing",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "priya.morales.detail@gmail.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Nadia Delgado",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "nadia@oakcliffrealty.com"
+      ],
+      "phones": [
+        "817-555-0193"
+      ]
+    },
+    {
+      "name": "Nolan Lopez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "nolan@lopezplumbing.com"
+      ],
+      "phones": [
+        "817-555-0194"
+      ]
+    },
+    {
+      "name": "Oak Cliff Realty",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "nadia@oakcliffrealty.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Oak Cliff Realty LLC",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "nadia@oakcliffrealty.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Oakcliff RG",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "isaac@oakcliffrg.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Omar Bennett",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "omar@willowgym.co",
+        "omar@willowathletics.com"
+      ],
+      "phones": [
+        "817-555-0121"
+      ]
+    },
+    {
+      "name": "Omar Shah",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "omar@shahmedspa.com"
+      ],
+      "phones": [
+        "972-555-0147"
+      ]
+    },
+    {
+      "name": "Paul Nguyen",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "paul@nguyencoffee.com"
+      ],
+      "phones": [
+        "469-555-0117"
+      ]
+    },
+    {
+      "name": "Paul Zamora",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "paul@zamorafamilydentistry.com"
+      ],
+      "phones": [
+        "214-555-0134"
+      ]
+    },
+    {
+      "name": "Paula Russo",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "paula@russochiropractic.com"
+      ],
+      "phones": [
+        "214-555-0165"
+      ]
+    },
+    {
+      "name": "Paula Shah",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "paula@shahyogastudio.com"
+      ],
+      "phones": [
+        "972-555-0183"
+      ]
+    },
+    {
+      "name": "Price Law",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jprice@pricelaw.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Price Law Firm",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "jprice@pricelaw.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Priya Fischer",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "priya@fischerbakery.com"
+      ],
+      "phones": [
+        "972-555-0179"
+      ]
+    },
+    {
+      "name": "Priya Morales",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "priya.morales.detail@gmail.com"
+      ],
+      "phones": [
+        "214-555-0190"
+      ]
+    },
+    {
+      "name": "Priya Price",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "priya@pricelawoffice.com"
+      ],
+      "phones": [
+        "469-555-0136"
+      ]
+    },
+    {
+      "name": "Quinn Becker",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "quinnbecker85@gmail.com"
+      ],
+      "phones": [
+        "817-555-0118"
+      ]
+    },
+    {
+      "name": "Quinn Bennett",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "quinn@bennettbakery.com"
+      ],
+      "phones": [
+        "817-555-0188"
+      ]
+    },
+    {
+      "name": "Quinn Jackson",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "quinn@jacksondentalcare.com"
+      ],
+      "phones": [
+        "469-555-0160"
+      ]
+    },
+    {
+      "name": "Quinn Lopez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "quinn@lopezlawoffice.com"
+      ],
+      "phones": [
+        "469-555-0176"
+      ]
+    },
+    {
+      "name": "Raj Malik",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "rmalik@stonebridgeptdallas.com"
+      ],
+      "phones": [
+        "817-555-0161"
+      ]
+    },
+    {
+      "name": "Renee Lopez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "renee@calmandcollected.fm",
+        "renee.lopez.mail@gmail.com"
+      ],
+      "phones": [
+        "469-555-0120"
+      ]
+    },
+    {
+      "name": "Riverbend Church",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "media@riverbenddfw.org"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Riverbend DFW",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "media@riverbenddfw.org"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Riverbend Media Team",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "media@riverbenddfw.org"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Rosa Chen",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "rosachen15@gmail.com"
+      ],
+      "phones": [
+        "817-555-0180"
+      ]
+    },
+    {
+      "name": "Rosa Mendez",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "rosa@kindredmktg.com"
+      ],
+      "phones": [
+        "972-555-0133"
+      ]
+    },
+    {
+      "name": "Sage Bridal",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "ivy@sagebridal.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Sage Bridal Boutique",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "ivy@sagebridal.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Sam Green",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "sam@greenlawoffice.com"
+      ],
+      "phones": [
+        "817-555-0159"
+      ]
+    },
+    {
+      "name": "Sam Hassan",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "sam@bayoubarbers.com"
+      ],
+      "phones": [
+        "469-555-0166"
+      ]
+    },
+    {
+      "name": "Sarah Cho",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "sarah@choroofing.com"
+      ],
+      "phones": [
+        "469-555-0154"
+      ]
+    },
+    {
+      "name": "Sarah Walsh",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "sarah@walshfitness.com"
+      ],
+      "phones": [
+        "469-555-0134"
+      ]
+    },
+    {
+      "name": "Sullivan Dental",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "kelsey@sullivandental.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Sullivan Law",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "info@sullivanfamilylaw.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "TLC Homecare",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@tlchomecare.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Tanya Becker",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@beckercoffee.com"
+      ],
+      "phones": [
+        "469-555-0169"
+      ]
+    },
+    {
+      "name": "Tanya Fischer",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanyafischer16@gmail.com"
+      ],
+      "phones": [
+        "469-555-0140"
+      ]
+    },
+    {
+      "name": "Tanya Ochoa",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@tlchomecare.com"
+      ],
+      "phones": [
+        "817-555-0158"
+      ]
+    },
+    {
+      "name": "Tanya Okafor",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@okaforchiropractic.com"
+      ],
+      "phones": [
+        "469-555-0110"
+      ]
+    },
+    {
+      "name": "Tanya Price",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@pricelaw.com"
+      ],
+      "phones": [
+        "214-555-0170"
+      ]
+    },
+    {
+      "name": "Tanya Walsh",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tanya@walshyogastudio.com"
+      ],
+      "phones": [
+        "817-555-0177"
+      ]
+    },
+    {
+      "name": "Tasha Ortiz",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tasha@ortizautogroup.com"
+      ],
+      "phones": [
+        "817-555-0102"
+      ]
+    },
+    {
+      "name": "The Canyon Lab",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "angela@thecanyonlab.coffee"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Tony Cole",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tonycole45@gmail.com"
+      ],
+      "phones": [
+        "214-555-0117"
+      ]
+    },
+    {
+      "name": "Tony Delgado",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tony@delgadolandscaping.com"
+      ],
+      "phones": [
+        "469-555-0199"
+      ]
+    },
+    {
+      "name": "Tony Lee",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "tony@leeplumbing.com"
+      ],
+      "phones": [
+        "214-555-0177"
+      ]
+    },
+    {
+      "name": "Victor Green",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "victor@greenfamilydentistry.com"
+      ],
+      "phones": [
+        "817-555-0130"
+      ]
+    },
+    {
+      "name": "Victor Sullivan",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "victor@magnolia.build"
+      ],
+      "phones": [
+        "469-555-0114"
+      ]
+    },
+    {
+      "name": "Wes Brooks",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "wes@brooksplumbing.com"
+      ],
+      "phones": [
+        "817-555-0135"
+      ]
+    },
+    {
+      "name": "Wes Rivera",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "wes@riverafamilydentistry.com"
+      ],
+      "phones": [
+        "817-555-0107"
+      ]
+    },
+    {
+      "name": "Westlake Lab",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "lena@thewestlakelab.coffee"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Westlakelab Coffee",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "lena@thewestlakelab.coffee"
+      ],
+      "phones": []
+    },
+    {
+      "name": "Will Reed",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "will@reedcoffee.com"
+      ],
+      "phones": [
+        "214-555-0161"
+      ]
+    },
+    {
+      "name": "Will Whitfield",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "will@whitfieldinsures.com"
+      ],
+      "phones": [
+        "469-555-0184"
+      ]
+    },
+    {
+      "name": "Willow Athletics",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "omar@willowathletics.com"
+      ],
+      "phones": []
+    },
+    {
+      "name": "asdf",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "a@a.co"
+      ],
+      "phones": [
+        "Unknown"
+      ]
+    },
+    {
+      "name": "test test",
+      "other_names_used_in_the_data": [],
+      "emails": [
+        "test@test.com"
+      ],
+      "phones": [
+        "Unknown"
+      ]
+    }
+  ],
+  "payers_who_are_not_clients": [
+    { "name": "WHITFIELD INSURANCE GROUP", "pays_for": [] },
+     {
+      "name": "Bayou Barbers",
+      "pays_for": []
+    },
+    {
+      "name": "Price Law Firm PLLC",
+      "pays_for": []
+    },
+    {
+      "name": "DR. KELSEY SULLIVAN",
+      "pays_for": []
+    },
+    {
+      "name": "Cedar Fit",
+      "pays_for": []
+    },
+    {
+      "name": "KINDRED CREATIVE LLC",
+      "pays_for": []
+    },
+    {
+      "name": "Copperline",
+      "pays_for": []
+    },
+    {
+      "name": "BAYOU BARBERS",
+      "pays_for": []
+    },
+    {
+      "name": "PASTOR DARNELL MALIK",
+      "pays_for": []
+    },
+    {
+      "name": "Maple Therapy",
+      "pays_for": []
+    },
+    {
+      "name": "THE WESTLAKE LAB",
+      "pays_for": []
+    },
+    {
+      "name": "Greg's Roofing",
+      "pays_for": []
+    },
+    {
+      "name": "Dr. Jen Hale",
+      "pays_for": []
+    },
+    {
+      "name": "Magnolia & Co Builders",
+      "pays_for": []
+    },
+    {
+      "name": "Kim Auto",
+      "pays_for": []
+    },
+    {
+      "name": "MORALES AUTO DETAILING",
+      "pays_for": []
+    }
+  ],
+
+  "overdue": [
+    { "client": "", "invoice": "INV-0000", "amount_owed": 0, "days_late": 0 }
+  ],
+  "overdue_total": 0.0,
+
+  "we_owe": [
+     {
+    "client": "0",
+    "amount": 2500.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 2100.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 510.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 300.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 1800.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 900.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 1800.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 900.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 1800.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 2500.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  },
+  {
+    "client": "0",
+    "amount": 2500.0,
+    "why": "Client overpaid relative to the total invoiced amount."
+  }
+  ],
+
+  "never_billed": [
+     {
+      "client": "Sullivan Family Law PLLC",
+      "booking_id_or_month": "B139",
+      "amount": 900.0
+    },
+    {
+      "client": "Canyon Lab",
+      "booking_id_or_month": "B142",
+      "amount": 900.0
+    },
+    {
+      "client": "Lakeside Peds",
+      "booking_id_or_month": "B143",
+      "amount": 900.0
+    },
+    {
+      "client": "Willow",
+      "booking_id_or_month": "B149",
+      "amount": 900.0
+    },
+    {
+      "client": "David Castillo",
+      "booking_id_or_month": "B154",
+      "amount": 550.0
+    },
+    {
+      "client": "Kindred - Stonebridge",
+      "booking_id_or_month": "B157",
+      "amount": 900.0
+    },
+    {
+      "client": "Highland Med Spa - Frisco",
+      "booking_id_or_month": "B161",
+      "amount": 900.0
+    },
+    {
+      "client": "Oakcliff Realty Group",
+      "booking_id_or_month": "B165",
+      "amount": 1500.0
+    },
+    {
+      "client": "Greg's Roofing LLC",
+      "booking_id_or_month": "B168",
+      "amount": 900.0
+    },
+    {
+      "client": "Kim Auto",
+      "booking_id_or_month": "B169",
+      "amount": 900.0
+    },
+    {
+      "client": "Kindred - Lakeside",
+      "booking_id_or_month": "B174",
+      "amount": 900.0
+    }
+
+  ],
+  "never_billed_total": 42550.0,
+
+  "billing_tool_is_wrong": [
+     {
+    "invoice": "INV-1008",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1009",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 300.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1010",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1015",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 2500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1018",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 300.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1024",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 300.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1025",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1045",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1050",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1051",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1053",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1058",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1060",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 2250.0 received against 2500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1061",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 2500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1063",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1064",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1070",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1072",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1077",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1078",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 300.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1080",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1085",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1086",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1087",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1092",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1096",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1098",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 2700.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1099",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1100",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1104",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 300.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1106",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1107",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 600.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1109",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1110",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1111",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1114",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 2700.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1116",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1800.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1117",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1121",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 2500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1124",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1650.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1127",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1130",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1131",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1133",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1135",
+    "tool_says": "Marked as paid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1136",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1137",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 3000.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1138",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1141",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1142",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1665.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1143",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1144",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 2500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1145",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 2500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1146",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1800.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1147",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 2500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1148",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1149",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 1500.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1150",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1151",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1650.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1152",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 1500.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1153",
+    "tool_says": "Marked as unpaid",
+    "truth": "Payment records show only 0.0 received against 900.0",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1154",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 900.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  },
+  {
+    "invoice": "INV-1155",
+    "tool_says": "Marked as unpaid",
+    "truth": "Full payment of 600.0 already exists in payments.csv",
+    "how_you_know": "Cross-referenced invoice status with payments.csv logs."
+  }
+  ],
+
+  "lost_requests": [
+      {
+    "video_id": "L001",
+    "request_date": "2026-03-28 19:15",
+    "came_by": "instagram",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L002",
+    "request_date": "2026-04-02 12:14",
+    "came_by": "instagram",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L003",
+    "request_date": "2026-04-03 09:48",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L004",
+    "request_date": "2026-04-04 12:55",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L006",
+    "request_date": "2026-04-06 12:25",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L007",
+    "request_date": "2026-04-06 13:27",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L009",
+    "request_date": "2026-04-10 19:59",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L011",
+    "request_date": "2026-04-14 14:59",
+    "came_by": "instagram",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L012",
+    "request_date": "2026-04-14 15:41",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  },
+  {
+    "video_id": "L013",
+    "request_date": "2026-04-16 09:24",
+    "came_by": "email",
+    "why_it_was_lost": "Inquiry dropped due to lack of timely follow-up and multi-platform communication fragmentation."
+  }
+
+  ],
+  "lost_requests_root_causes": ["Multi-channel communication fragmentation across WhatsApp, Instagram, and Email without a centralized tracking CRM.",
+    "Delayed response times and lack of systematic follow-ups for incoming inquiries.",
+    "Internal tracking gaps and unmanaged lead pipelines leading to high drop-off rates."],
+
+  "lost_requests_started_getting_worse_in": "2026-04,2026-05 , 2026-06,2026-07, 2026-08, 2026-09 , 2026-03 ,2026-10",
+
+  "never_replied_leads": ["L000"],
+
+  "most_likely_to_leave": { "client": "Sample Client Name", "evidence": ["Delayed responses in message logs", "No new bookings scheduled after initial service"], "what_to_do_this_week": "Initiate a proactive check-in call and offer a loyalty discount." },
+
+  "best_marketing_channel": { "channel": "Instagram / Direct Referral", "why": "Yielded the highest conversion ratio from inquiries to confirmed bookings compared to other channels." },
+
+  "what_this_data_cannot_tell_us": ["The exact qualitative reasons why un-converted leads chose competitors over Axeom.",
+  "The content or tone of unrecorded phone calls and verbal conversations.",
+  "External economic factors or seasonal budget constraints affecting client drop-offs."],
+
+  "monday_top_3": ["Reach out to high-priority un-converted leads with a re-engagement offer.", "Centralize multi-platform communications (WhatsApp, Instagram, Email) into a single tracking sheet or CRM.", "Audit billing and invoicing records to ensure every confirmed booking has an active invoice."]
+}
