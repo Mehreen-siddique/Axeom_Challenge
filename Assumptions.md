@@ -1,11 +1,15 @@
-# Assumptions & Logical Deductions - Axeom Operational Challenge
+# Assumptions & Analytical Framework — Axeom Business Analysis
 
-## 1. Data Integrity & Missing Values
-- **Dropped Columns**: The `notice_onboard` column was removed because over 70-81% of its records were empty, indicating that onboarding instructions or face-blur requirements were largely untracked or inconsistently logged by the staff.
-- **Operational Gaps**: Empty values in `production_board` (`client_approved`, `shoot_booking`) reflect administrative oversights, delayed internal log updates, or unlinked projects rather than total data corruption.
+## 1. Data Processing & Metrics Assumptions
+* **Conversion Definition:** A request or inquiry is considered successfully converted into a booking only when confirmed in the dataset logs. All unconfirmed or dropped inquiries within the measured period are categorized as lost.
+* **Response Time Thresholds:** It is assumed that initial client inquiries dropping past the 15-minute mark experience a sharp exponential decay in conversion probability.
+* **Financial Integrity:** Zero overdue payments ($0.00) indicate strong upfront payment collection policies or service pre-payments, though they highlight a potential under-utilization of upsell tiers or milestone billing.
 
-## 2. Lead-to-Booking Discrepancy (Question #3)
-- **Lost Requests**: The significant gap between total inquiries (~113 leads) and confirmed bookings (~20 bookings) serves as quantitative evidence that client requests are getting lost due to slow response times, lack of follow-up tracking, or communication fragmentation across channels (Instagram, WhatsApp, Email).
+## 2. Operational Root Causes
+* **Communication Fragmentation:** Leads being handled across uncentralized channels (direct messages, emails, disparate chats) lead to missed follow-ups and prolonged response lags.
+* **Process Standardization:** Absence of a structured CRM pipeline causes manual tracking errors and failure to re-engage warm leads.
 
-## 3. Financial Reconciliation (Question #2)
-- **Unpaid Balances**: Discrepancies or missing entries when matching `invoices.csv` with `payments.csv` highlight billing gaps, where services were delivered and invoiced but corresponding payments were never properly logged or collected.
+## 3. Intervention Strategy ("Monday Top 3")
+1. **Centralized Inbox / CRM Adoption:** Route all incoming multi-channel leads into a single unified dashboard to eliminate missed inquiries.
+2. **SLA Response Protocol:** Enforce a strict target to respond to inbound inquiries within 15 minutes.
+3. **Automated Follow-Up Sequences:** Implement structured automated touchpoints at 24-hour and 72-hour intervals for unclosed requests.
