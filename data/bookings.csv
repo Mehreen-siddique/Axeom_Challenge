@@ -1,0 +1,176 @@
+booking_id,date,client_name,email,service,status,price
+B001,04/01/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B002,04/07/2026,Calm and Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B003,04/08/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,$300
+B004,04/13/2026,Sullivan Dental,kelsey@sullivandental.com,Content Day,completed,1500
+B005,04/13/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B006,04/13/2026,Magnolia,victor@magnolia.build,Content Day,completed,"$1,500"
+B007,04/15/2026,Jordan Mendez,jordan@jordansroofingtx.com,Reels Pack,completed,$900
+B008,04/17/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B009,04/20/2026,Calm & Collected Podcast,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B010,04/21/2026,Clearwater Med Spa - Plano,brooke@clearwatermedspa.com,Content Day,completed,"$1,500"
+B011,04/24/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B012,04/24/2026,Kingsley WP,dfischer@kingsleywp.com,Retainer Shoot,completed,0
+B013,04/27/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B014,04/27/2026,Ivy Whitfield,ivy@sagebridal.com,Reels Pack,completed,$900
+B015,05/04/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B016,05/04/2026,C&C Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B017,05/07/2026,Kingsley Wealth Partners,dfischer@kingsleywp.com,Retainer Shoot,completed,0
+B018,05/08/2026,Cedar,kim@cedarfit.co,Reels Pack,completed,900
+B019,05/11/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B020,05/11/2026,Calm & Collected Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,$300
+B021,05/11/2026,Price Law Firm PLLC,jprice@pricelaw.com,Retainer Shoot,completed,0
+B022,05/13/2026,Dallas Builders,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B023,05/13/2026,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B024,05/15/2026,Highland Med Spa - Plano,jen@highlandmedspa.com,Reels Pack,completed,$900
+B025,05/18/2026,Dr Sullivan,kelsey@sullivandental.com,Content Day,completed,"$1,500"
+B026,05/19/2026,Calm & Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B027,05/20/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B028,05/20/2026,Jordan's Roofing,jordan@jordansroofingtx.com,Reels Pack,completed,$900
+B029,05/25/2026,C&C Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B030,05/25/2026,Dallas Builders,david@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B031,05/25/2026,Bayou Barbershop,sam@bayoubarbers.com,Reels Pack,completed,900
+B032,05/27/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,300
+B033,05/28/2026,Nadia Delgado,nadia@oakcliffrealty.com,Content Day,completed,"$1,500"
+B034,05/29/2026,Ivy Whitfield,ivy@sagebridal.com,Reels Pack,completed,900
+B035,05/29/2026,Whitfield Insurance,will@whitfieldinsures.com,Retainer Shoot,completed,0
+B036,06/02/2026,Dr. Joy Delgado,hello@delgadodental.com,Content Day,completed,1500
+B037,06/02/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B038,06/02/2026,Cedar Fitness,kim@cedarfit.co,Reels Pack,completed,$900
+B039,06/04/2026,Clearwater Med Spa - Frisco,brooke@clearwatermedspa.com,Content Day,completed,"$1,500"
+B040,06/08/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B041,06/08/2026,C&C Podcast,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B042,06/08/2026,Dallas Builders Podcast,david@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B043,06/08/2026,Magnolia,victor@magnolia.build,Content Day,completed,1500
+B044,06/08/2026,Price Law Firm PLLC,jprice@pricelaw.com,Retainer Shoot,completed,$0
+B045,06/08/2026,Kingsley WP,dfischer@kingsleywp.com,Retainer Shoot,completed,$0
+B046,06/08/2026,Bluebonnet PT,mwebb@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B047,06/10/2026,Sullivan Family Law PLLC,info@sullivanfamilylaw.com,Reels Pack,completed,$900
+B048,06/10/2026,Kindred - Lakeside,efoster@lakesidepeds.com,Reels Pack,completed,900
+B049,06/15/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B050,06/15/2026,Calm and Collected,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B051,06/15/2026,Whitfield Ins,will@whitfieldinsures.com,Retainer Shoot,completed,$0
+B052,06/19/2026,Highland Med Spa - Frisco,jen@highlandmedspa.com,Reels Pack,completed,900
+B053,06/19/2026,Copperline Builders LLC,femi@copperline.build,Content Day,completed,"$1,500"
+B054,06/22/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B055,06/22/2026,Calm & Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B056,06/22/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B057,06/23/2026,Westlake Lab,lena@thewestlakelab.coffee,Reels Pack,completed,900
+B058,06/29/2026,Calm and Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B059,06/29/2026,Jordan's Roofing LLC,jordan@jordansroofingtx.com,Reels Pack,completed,900
+B060,06/29/2026,Cedar Fit,kim@cedarfit.co,Reels Pack,completed,$900
+B061,06/30/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B062,07/01/2026,Sage Bridal,ivy@sagebridal.com,Reels Pack,completed,900
+B063,07/01/2026,Bayou Barbershop,sam@bayoubarbers.com,Reels Pack,completed,$900
+B064,07/01/2026,Kindred - Stonebridge,rosa@kindredmktg.com,Reels Pack,completed,900
+B065,07/06/2026,Joy Delgado DDS,hello@delgadodental.com,Content Day,completed,"$1,500"
+B066,07/06/2026,Dallas Builders Podcast,david@dallasbuilders.fm,Podcast Studio 4hr,completed,550
+B067,07/06/2026,Bluebonnet PT Dallas,mwebb@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B068,07/08/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B069,07/08/2026,Calm and Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B070,07/08/2026,Willow Gym,omar@willowgym.co,Reels Pack,completed,$900
+B071,07/09/2026,Oak Cliff Realty,nadia@oakcliffrealty.com,Content Day,completed,1500
+B072,07/10/2026,Sullivan Dental PLLC,kelsey@sullivandental.com,Content Day,completed,1500
+B073,07/13/2026,Price Law Firm,jprice@pricelaw.com,Retainer Shoot,completed,$0
+B074,07/13/2026,Kingsley Wealth,dfischer@kingsleywp.com,Retainer Shoot,completed,0
+B075,07/13/2026,Maple Family Therapy,jhale@maplefamilytherapy.com,Content Day,completed,"$1,500"
+B076,07/14/2026,Canyon Lab,angela@thecanyonlab.coffee,Reels Pack,completed,$900
+B077,07/16/2026,Magnolia Builders,victor@magnolia.build,Content Day,completed,1500
+B078,07/17/2026,Sullivan Family Law PLLC,info@sullivanfamilylaw.com,Reels Pack,completed,900
+B079,07/17/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B080,07/20/2026,Morales Auto,priya.morales.detail@gmail.com,Reels Pack,completed,900
+B081,07/20/2026,Calm & Collected Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B082,07/20/2026,Dallas Builders,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B083,07/20/2026,Clearwater Med Spa,brooke@clearwatermedspa.com,Content Day,completed,"$1,500"
+B084,07/20/2026,Lakeside Peds,rosa@kindredmktg.com,Reels Pack,completed,$900
+B085,07/27/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B086,07/27/2026,Calm & Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,$300
+B087,07/27/2026,Jordans Roofing,jordan@jordansroofingtx.com,Reels Pack,completed,900
+B088,07/27/2026,Highland Med Spa - Plano,jen@highlandmedspa.com,Reels Pack,completed,$900
+B089,07/27/2026,Bayou Barbershop,sam@bayoubarbers.com,Reels Pack,completed,900
+B090,07/30/2026,Stonebridge PT Dallas,rosa@kindredmktg.com,Reels Pack,completed,900
+B091,07/31/2026,Westlake Lab,lena@thewestlakelab.coffee,Reels Pack,completed,$900
+B092,08/03/2026,Sage Bridal Boutique,ivy@sagebridal.com,Reels Pack,completed,$900
+B093,08/03/2026,Cedar Fitness,kim@cedarfit.co,Reels Pack,completed,900
+B094,08/04/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B095,08/04/2026,Greg's Roofing LLC,greg@gregsroofingtx.com,Reels Pack,completed,$900
+B096,08/05/2026,Calm & Collected,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B097,08/05/2026,Willow,omar@willowathletics.com,Reels Pack,completed,$900
+B098,08/06/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B099,08/10/2026,Price Law Firm PLLC,jprice@pricelaw.com,Retainer Shoot,completed,0
+B100,08/10/2026,Copperline Builders LLC,femi@copperline.build,Content Day,completed,1500
+B101,08/12/2026,Calm & Collected,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B102,08/13/2026,Oakcliff RG,isaac@oakcliffrg.com,Content Day,completed,1500
+B103,08/13/2026,Riverbend Media Team,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B104,08/13/2026,Kingsley Wealth Partners,dfischer@kingsleywp.com,Retainer Shoot,completed,$0
+B105,08/13/2026,Lakeside Pediatrics,efoster@lakesidepeds.com,Reels Pack,completed,900
+B106,08/14/2026,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B107,08/17/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B108,08/17/2026,The Canyon Lab,angela@thecanyonlab.coffee,Reels Pack,completed,900
+B109,08/19/2026,Dr. Joy Delgado,hello@delgadodental.com,Content Day,completed,1500
+B110,08/19/2026,C&C Podcast,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,$300
+B111,08/20/2026,Dr Sullivan,kelsey@sullivandental.con,Content Day,completed,1500
+B112,08/20/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B113,08/24/2026,Priya Morales,priya.morales.detail@gmail.com,Reels Pack,completed,900
+B114,08/24/2026,Jordan Mendez,jordan@jordansroofingtx.com,Reels Pack,completed,$900
+B115,08/25/2026,Sullivan Family Law,info@sullivanfamilylaw.com,Reels Pack,completed,900
+B116,08/25/2026,Dr. Jen Hale,jhale@maplefamilytherapy.com,Content Day,completed,"$1,500"
+B117,08/26/2026,C&C Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B118,08/26/2026,Stonebridge PT Dallas,rmalik@stonebridgeptdallas.com,Reels Pack,completed,$900
+B119,08/27/2026,Magnolia & Co Builders,victor@magnolia.build,Content Day,completed,"$1,500"
+B120,08/27/2026,Sam Hassan,sam@bayoubarbers.com,Reels Pack,completed,$900
+B121,08/27/2026,Westlakelab Coffee,lena@thewestlakelab.coffee,Reels Pack,completed,900
+B122,08/31/2026,Nadia Delgado,nadia@oakcliffrealty.com,Content Day,completed,"$1,500"
+B123,08/31/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B124,08/31/2026,Kim Auto Detailing,andre.kim.detail@gmail.com,Content Day,completed,1500
+B125,09/01/2026,TLC Homecare,tanya@tlchomecare.com,Content Day,completed,1500
+B126,09/02/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B127,09/02/2026,Highland Med Spa,jen@highlandmedspa.com,Reels Pack,completed,900
+B128,09/02/2026,Greg's Roofing LLC,greg@gregsroofingtx.com,Reels Pack,completed,$900
+B129,09/04/2026,Sage Bridal Boutique,ivy@sagebridal.com,Reels Pack,completed,$900
+B130,09/04/2026,Willow Athletics,omar@willowathletics.com,Reels Pack,completed,900
+B131,09/07/2026,Calm & Collected Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,$300
+B132,09/07/2026,Clearwater Medspa,brooke@clearwatermedspa.com,Content Day,completed,1500
+B133,09/07/2026,Cedar Fit,kim@cedarfit.co,Reels Pack,completed,900
+B134,09/08/2026,Price Law,jprice@pricelaw.com,Retainer Shoot,completed,0
+B135,09/09/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B136,09/10/2026,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B137,09/14/2026,Kingsley Wealth Partners,dfischer@kingsleywp.com,Retainer Shoot,completed,0
+B138,09/18/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B139,09/21/2026,Sullivan Family Law PLLC,info@sullivanfamilylaw.com,Reels Pack,completed,900
+B140,09/21/2026,Calm and Collected,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B141,09/21/2026,Dallas Builders Podcast,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B142,09/21/2026,Canyon Lab,angela@thecanyonlab.coffee,Reels Pack,completed,900
+B143,09/21/2026,Lakeside Peds,rosa@kindredmktg.com,Reels Pack,completed,$900
+B144,09/22/2026,Dr. Joy Delgado,hello@delgadodental.com,Content Day,completed,1500
+B145,09/23/2026,Priya Morales,priya.morales.detail@gmail.com,Reels Pack,completed,900
+B146,09/25/2026,Oak Cliff Realty,nadia@oakcliffrealty.com,Content Day,cancelled,"$1,500"
+B147,09/28/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,completed,255
+B148,09/28/2026,Renee Lopez,renee.lopez.mail@gmail.com,Podcast Studio 2hr,completed,300
+B149,10/01/2026,Willow,omar@willowathletics.com,Reels Pack,completed,900
+B150,10/02/2026,Westlake Lab,lena@thewestlakelab.coffee,Reels Pack,completed,$900
+B151,10/02/2026,Copperline Builders,femi@copperline.build,Content Day,completed,1500
+B152,10/05/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,completed,$255
+B153,10/05/2026,Calm & Collected Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,completed,300
+B154,10/05/2026,David Castillo,david@dallasbuilders.fm,Podcast Studio 4hr,completed,$550
+B155,10/05/2026,Jordan's Roofing LLC,jordan@jordansroofingtx.com,Reels Pack,completed,900
+B156,10/05/2026,Kim Hale,kim@cedarfit.co,Reels Pack,completed,$900
+B157,10/05/2026,Kindred - Stonebridge,rosa@kindredmktg.com,Reels Pack,completed,$900
+B158,10/05/2026,Oak Cliff Realty,nadia@oakcliffrealty.com,Content Day,completed,1500
+B159,10/06/2026,Bayou Barbershop,sam@bayoubarbers.com,Reels Pack,upcoming,900
+B160,10/07/2026,Sullivan Dental,kelsey@sullivandental.com,Content Day,upcoming,"$1,500"
+B161,10/07/2026,Highland Med Spa - Frisco,jen@highlandmedspa.com,Reels Pack,upcoming,$900
+B162,10/08/2026,Price Law,jprice@pricelaw.com,Retainer Shoot,upcoming,$0
+B163,10/08/2026,Kingsley Wealth Partners,dfischer@kingsleywp.com,Retainer Shoot,upcoming,$0
+B164,10/08/2026,Bluebonnet PT,mwebb@bluebonnetptdallas.com,Retainer Shoot,upcoming,0
+B165,10/12/2026,Oakcliff Realty Group,isaac@oakcliffrg.com,Content Day,upcoming,"$1,500"
+B166,10/12/2026,Riverbend Church,media@riverbenddfw.org,Podcast Studio 2hr,upcoming,$255
+B167,10/12/2026,Ivy Whitfield,ivy@sagebridal.com,Reels Pack,upcoming,$900
+B168,10/12/2026,Greg's Roofing LLC,greg@gregsroofingtx.com,Reels Pack,upcoming,900
+B169,10/12/2026,Kim Auto,andre.kim.detail@gmail.com,Reels Pack,upcoming,900
+B170,10/15/2026,C&C Podcast,renee@calmandcollected.fm,Podcast Studio 2hr,upcoming,$300
+B171,10/16/2026,Canyonlab Coffee,angela@thecanyonlab.coffee,Reels Pack,upcoming,900
+B172,10/19/2026,Riverbend DFW,media@riverbenddfw.org,Podcast Studio 2hr,upcoming,255
+B173,10/19/2026,Clearwater Med Spa - Frisco,brooke@clearwatermedspa.com,Content Day,upcoming,"$1,500"
+B174,10/19/2026,Kindred - Lakeside,rosa@kindredmktg.com,Reels Pack,upcoming,$900
+B175,10/20/2026,Dallas Builders,david@dallasbuilders.fm,Podcast Studio 4hr,upcoming,$550

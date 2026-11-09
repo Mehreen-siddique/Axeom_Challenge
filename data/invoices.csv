@@ -1,0 +1,157 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Riverbend Media Team,media@riverbenddfw.org,2026-04-02,2026-04-16,300.00,paid,
+INV-1002,Riverbend Church,media@riverbenddfw.org,2026-04-08,2026-04-22,300.00,paid,Podcast Studio 2hr 4/8
+INV-1003,Calm & Collected Podcast,renee@calmandcollected.fm,2026-04-08,2026-04-22,300.00,paid,
+INV-1004,Dallas Builders,david@dallasbuilders.fm,2026-04-13,2026-04-27,550.00,paid,Podcast Studio 4hr 4/13
+INV-1005,Sullivan Dental,kelsey@sullivandental.com,2026-04-13,2026-04-27,1500.00,paid,B004 Content Day
+INV-1006,Magnolia Builders LLC,victor@magnolia.build,2026-04-14,2026-04-28,1500.00,paid,
+INV-1007,Riverbend Church,media@riverbenddfw.org,2026-04-17,2026-05-01,300.00,paid,B008 Podcast Studio 2hr
+INV-1008,Jordan's Roofing,jordan@jordansroofingtx.com,2026-04-17,2026-05-01,900.00,paid,
+INV-1009,Calm & Collected,renee@calmandcollected.fm,2026-04-20,2026-05-04,300.00,paid,B009 Podcast Studio 2hr
+INV-1010,Clearwater Med Spa - Frisco,brooke@clearwatermedspa.com,2026-04-22,2026-05-06,1500.00,paid,
+INV-1011,Riverbend DFW,media@riverbenddfw.org,2026-04-25,2026-05-09,300.00,paid,Podcast Studio 2hr 4/24
+INV-1012,Ivy Whitfield,ivy@sagebridal.com,2026-04-29,2026-05-13,900.00,paid,B014 Reels Pack
+INV-1013,Dallas Builders,david@dallasbuilders.fm,2026-04-30,2026-05-14,550.00,paid,B013 Podcast Studio 4hr
+INV-1014,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1015,Kingsley Wealth,dfischer@kingsleywp.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1016,Will Whitfield,will@whitfieldinsures.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1017,Riverbend DFW,media@riverbenddfw.org,2026-05-04,2026-05-18,300.00,paid,
+INV-1018,Calm & Collected,renee@calmandcollected.fm,2026-05-04,2026-05-18,300.00,paid,Podcast Studio 2hr 5/4
+INV-1019,Kim Hale,kim@cedarfit.co,2026-05-10,2026-05-24,900.00,paid,
+INV-1020,C&C Podcast,renee@calmandcollected.fm,2026-05-11,2026-05-25,300.00,paid,
+INV-1021,Riverbend Media Team,media@riverbenddfw.org,2026-05-12,2026-05-26,300.00,paid,
+INV-1022,Dallas Builders,david@dallasbuilders.fm,2026-05-14,2026-05-28,550.00,paid,
+INV-1023,Highland Medspa,jen@highlandmedspa.com,2026-05-17,2026-05-31,900.00,paid,Reels Pack 5/15
+INV-1024,Calm & Collected,renee@calmandcollected.fm,2026-05-20,2026-06-03,300.00,paid,
+INV-1025,Kelsey Sullivan DDS,kelsey@sullivandental.com,2026-05-20,2026-06-03,1500.00,paid,
+INV-1026,Jordan's Roofing LLC,jordan@jordansroofingtx.com,2026-05-22,2026-06-05,900.00,paid,
+INV-1027,Riverbend Church,media@riverbenddfw.org,2026-05-22,2026-06-05,300.00,paid,
+INV-1028,Sam Hassan,sam@bayoubarbers.com,2026-05-26,2026-06-09,900.00,paid,
+INV-1029,Calm and Collected,renee@calmandcollected.fm,2026-05-27,2026-06-10,300.00,paid,
+INV-1030,Dallas Builders,david@dallasbuilders.fm,2026-05-27,2026-06-10,550.00,paid,
+INV-1031,Sage Bridal Boutique,ivy@sagebridal.com,2026-05-29,2026-06-12,900.00,paid,
+INV-1032,Riverbend Church,media@riverbenddfw.org,2026-05-30,2026-06-13,300.00,paid,
+INV-1033,Oak Cliff Realty LLC,nadia@oakcliffrealty.com,2026-05-31,2026-06-14,1500.00,paid,Content Day 5/28
+INV-1034,Will Whitfield,will@whitfieldinsures.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1035,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1036,Price Law,jprice@pricelaw.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1037,Kingsley Wealth Partners,dfischer@kingsleywp.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1038,Dr. Joy Delgado,hello@delgadodental.com,2026-06-02,2026-06-16,1500.00,paid,B036 Content Day
+INV-1039,Cedar,kim@cedarfit.co,2026-06-03,2026-06-17,900.00,paid,Reels Pack 6/2
+INV-1040,Clearwater Med Spa,brooke@clearwatermedspa.com,2026-06-05,2026-06-19,1500.00,paid,B039 Content Day
+INV-1041,Riverbend DFW,media@riverbenddfw.org,2026-06-05,2026-06-19,255.00,paid,
+INV-1042,Calm & Collected Podcast,renee@calmandcollected.fm,2026-06-08,2026-06-22,300.00,paid,
+INV-1043,Riverbend Media Team,media@riverbenddfw.org,2026-06-09,2026-06-23,255.00,paid,
+INV-1044,Magnolia Builders LLC,victor@magnolia.build,2026-06-09,2026-06-23,1500.00,paid,
+INV-1045,Kindred Creative,rosa@kindredmktg.com,2026-06-10,2026-06-24,900.00,paid,B048 Reels Pack
+INV-1046,Dallas Builders Podcast,david@dallasbuilders.fm,2026-06-10,2026-06-24,550.00,paid,
+INV-1047,Alan Sullivan,info@sullivanfamilylaw.com,2026-06-10,2026-06-24,900.00,paid,
+INV-1048,Riverbend Media Team,media@riverbenddfw.org,2026-06-16,2026-06-30,255.00,paid,Podcast Studio 2hr 6/15
+INV-1049,Calm and Collected,renee@calmandcollected.fm,2026-06-18,2026-07-02,300.00,paid,Podcast Studio 2hr 6/15
+INV-1050,Highland Med Spa - Plano,jen@highlandmedspa.com,2026-06-19,2026-07-03,900.00,paid,Reels Pack 6/19
+INV-1051,Copperline Builders,femi@copperline.build,2026-06-21,2026-07-05,1500.00,paid,Content Day 6/19
+INV-1052,Calm & Collected Podcast,renee@calmandcollected.fm,2026-06-22,2026-07-06,300.00,paid,
+INV-1053,Westlakelab Coffee,lena@thewestlakelab.coffee,2026-06-24,2026-07-08,900.00,paid,B057 Reels Pack
+INV-1054,Riverbend DFW,media@riverbenddfw.org,2026-06-24,2026-07-08,255.00,paid,Podcast Studio 2hr 6/22
+INV-1055,Dallas Builders Podcast,david@dallasbuilders.fm,2026-06-24,2026-07-08,550.00,paid,
+INV-1056,Jordans Roofing,jordan@jordansroofingtx.com,2026-07-01,2026-07-15,900.00,paid,Reels Pack 6/29
+INV-1057,Calm and Collected,renee@calmandcollected.fm,2026-07-01,2026-07-15,300.00,paid,B058 Podcast Studio 2hr
+INV-1058,Bayou Barbershop,sam@bayoubarbers.com,2026-07-01,2026-07-15,900.00,paid,Reels Pack 7/1
+INV-1059,Price Law,jprice@pricelaw.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1060,Bluebonnet PT Dallas,mwebb@bluebonnetptdallas.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1061,Kingsley Wealth,dfischer@kingsleywp.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1062,Sage Bridal,ivy@sagebridal.com,2026-07-02,2026-07-16,900.00,paid,
+INV-1063,Kindred Creative,rosa@kindredmktg.com,2026-07-02,2026-07-16,900.00,paid,B064 Reels Pack
+INV-1064,Cedar Fitness,kim@cedarfit.co,2026-07-02,2026-07-16,900.00,paid,
+INV-1065,Riverbend DFW,media@riverbenddfw.org,2026-07-03,2026-07-17,255.00,paid,Podcast Studio 2hr 6/30
+INV-1066,Delgado Dental PLLC,hello@delgadodental.com,2026-07-07,2026-07-21,1500.00,paid,B065 Content Day
+INV-1067,Dallas Builders,david@dallasbuilders.fm,2026-07-08,2026-07-22,550.00,paid,B066 Podcast Studio 4hr
+INV-1068,Oak Cliff Realty,nadia@oakcliffrealty.com,2026-07-09,2026-07-23,1500.00,paid,Content Day 7/9
+INV-1069,Riverbend Media Team,media@riverbenddfw.org,2026-07-10,2026-07-24,255.00,paid,Podcast Studio 2hr 7/8
+INV-1070,Kelsey Sullivan DDS,kelsey@sullivandental.com,2026-07-10,2026-07-24,1500.00,paid,
+INV-1071,C&C Podcast,renee@calmandcollected.fm,2026-07-11,2026-07-25,300.00,paid,
+INV-1072,Maple Family Therapy,jhale@maplefamilytherapy.com,2026-07-13,2026-07-27,1500.00,paid,Content Day 7/13
+INV-1073,Canyonlab Coffee,angela@thecanyonlab.coffee,2026-07-14,2026-07-28,900.00,paid,B076 Reels Pack
+INV-1074,Magnolia Builders,victor@magnolia.build,2026-07-16,2026-07-30,1500.00,paid,B077 Content Day
+INV-1075,Sullivan Law,info@sullivanfamilylaw.com,2026-07-18,2026-08-01,900.00,paid,Reels Pack 7/17
+INV-1076,Riverbend Church,media@riverbenddfw.org,2026-07-18,2026-08-01,255.00,paid,
+INV-1077,Kindred Creative,rosa@kindredmktg.com,2026-07-20,2026-08-03,900.00,paid,Reels Pack 7/20
+INV-1078,Calm & Collected,renee@calmandcollected.fm,2026-07-22,2026-08-05,300.00,paid,Podcast Studio 2hr 7/20
+INV-1079,Dallas Builders,david@dallasbuilders.fm,2026-07-22,2026-08-05,550.00,paid,
+INV-1080,Morales Detailing,priya.morales.detail@gmail.com,2026-07-23,2026-08-06,900.00,paid,B080 Reels Pack
+INV-1081,Jordans Roofing,jordan@jordansroofingtx.com,2026-07-27,2026-08-10,900.00,paid,Reels Pack 7/27
+INV-1082,Sam Hassan,sam@bayoubarbers.com,2026-07-27,2026-08-10,900.00,paid,B089 Reels Pack
+INV-1083,C&C Podcast,renee@calmandcollected.fm,2026-07-28,2026-08-11,300.00,paid,Podcast Studio 2hr 7/27
+INV-1084,Riverbend Church,media@riverbenddfw.org,2026-07-30,2026-08-13,255.00,paid,B085 Podcast Studio 2hr
+INV-1085,Highland,jen@highlandmedspa.com,2026-07-30,2026-08-13,900.00,paid,Reels Pack 7/27
+INV-1086,Kindred Creative,rosa@kindredmktg.com,2026-07-30,2026-08-13,900.00,paid,
+INV-1087,Westlakelab Coffee,lena@thewestlakelab.coffee,2026-07-31,2026-08-14,900.00,paid,B091 Reels Pack
+INV-1088,Bluebonnet PT Dallas,mwebb@bluebonnetptdallas.com,2026-08-01,2026-08-15,2250.00,paid,Monthly retainer August
+INV-1089,Price Law,jprice@pricelaw.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1090,Kingsley WP,dfischer@kingsleywp.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1091,Kim Hale,kim@cedarfit.co,2026-08-03,2026-08-17,900.00,paid,
+INV-1092,Gregs Roofing,greg@gregsroofingtx.com,2026-08-04,2026-08-18,900.00,paid,
+INV-1093,Dallas Builders Podcast,david@dallasbuilders.fm,2026-08-05,2026-08-19,550.00,paid,Podcast Studio 4hr 8/4
+INV-1094,Sage Bridal Boutique,ivy@sagebridal.com,2026-08-05,2026-08-19,900.00,paid,
+INV-1095,Willow Athletics,omar@willowathletics.com,2026-08-07,2026-08-21,900.00,paid,
+INV-1096,C&C Podcast,renee@calmandcollected.fm,2026-08-07,2026-08-21,300.00,unpaid,B096 Podcast Studio 2hr
+INV-1097,Riverbend Church,media@riverbenddfw.org,2026-08-09,2026-08-23,255.00,paid,
+INV-1098,Renee Lopez,renee@calmandcollected.fm,2026-08-12,2026-08-26,300.00,unpaid,Podcast Studio 2hr 8/12
+INV-1099,Kindred Creative,rosa@kindredmktg.com,2026-08-13,2026-08-27,900.00,paid,Reels Pack 8/13
+INV-1100,Oakcliff RG,isaac@oakcliffrg.com,2026-08-14,2026-08-28,1500.00,unpaid,Content Day 8/13
+INV-1101,Riverbend Church,media@riverbenddfw.org,2026-08-16,2026-08-30,255.00,paid,B103 Podcast Studio 2hr
+INV-1102,The Canyon Lab,angela@thecanyonlab.coffee,2026-08-17,2026-08-31,900.00,paid,B108 Reels Pack
+INV-1103,Dallas Builders Podcast,david@dallasbuilders.fm,2026-08-17,2026-08-31,550.00,paid,
+INV-1104,Calm and Collected,renee@calmandcollected.fm,2026-08-20,2026-09-03,300.00,unpaid,Podcast Studio 2hr 8/19
+INV-1105,Sullivan Dental,kelsey@sullivandental.com,2026-08-21,2026-09-04,1500.00,paid,
+INV-1106,Delgado Dental,hello@delgadodental.com,2026-08-22,2026-09-05,1500.00,paid,
+INV-1107,Riverbend DFW,media@riverbenddfw.org,2026-08-22,2026-09-05,255.00,unpaid,
+INV-1108,Jordan's Roofing LLC,jordan@jordansroofingtx.com,2026-08-26,2026-09-09,900.00,paid,
+INV-1109,Maple Family Therapy,jhale@maplefamilytherapy.com,2026-08-26,2026-09-09,1500.00,paid,B116 Content Day
+INV-1110,Kindred Creative,rosa@kindredmktg.com,2026-08-27,2026-09-10,900.00,paid,Reels Pack 8/26
+INV-1111,Priya Morales,priya.morales.detail@gmail.com,2026-08-27,2026-09-10,900.00,unpaid,
+INV-1112,Sam Hassan,sam@bayoubarbers.com,2026-08-27,2026-09-10,900.00,paid,
+INV-1113,Westlake Lab,lena@thewestlakelab.coffee,2026-08-27,2026-09-10,900.00,paid,B121 Reels Pack
+INV-1114,Renee Lopez,renee@calmandcollected.fm,2026-08-28,2026-09-11,300.00,unpaid,
+INV-1115,Magnolia,victor@magnolia.build,2026-08-28,2026-09-11,1500.00,paid,
+INV-1116,Alan Sullivan,info@sullivanfamilylaw.com,2026-08-28,2026-09-11,900.00,unpaid,Reels Pack 8/25
+INV-1117,Kim Auto Detailing,andre.kim.detail@gmail.com,2026-08-31,2026-09-14,1500.00,paid,
+INV-1118,Riverbend Media Team,media@riverbenddfw.org,2026-08-31,2026-09-14,255.00,paid,Podcast Studio 2hr 8/31
+INV-1119,Nadia Delgado,nadia@oakcliffrealty.com,2026-08-31,2026-09-14,1500.00,paid,
+INV-1120,Kingsley WP,dfischer@kingsleywp.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1121,Price Law,jprice@pricelaw.com,2026-09-01,2026-09-15,2500.00,unpaid,Monthly retainer September
+INV-1122,Bluebonnet PT,mwebb@bluebonnetptdallas.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1123,Highland Med Spa,jen@highlandmedspa.com,2026-09-02,2026-09-16,900.00,paid,Reels Pack 9/2
+INV-1124,Dallas Builders Podcast,david@dallasbuilders.fm,2026-09-02,2026-09-16,550.00,unpaid,B126 Podcast Studio 4hr
+INV-1125,Greg Ochoa,greg@gregsroofingtx.com,2026-09-03,2026-09-17,900.00,partial,Reels Pack 9/2
+INV-1126,Willow Athletics,omar@willowathletics.com,2026-09-04,2026-09-18,900.00,paid,
+INV-1127,TLC Homecare,tanya@tlchomecare.com,2026-09-04,2026-09-18,1500.00,unpaid,B125 Content Day
+INV-1128,Sage Bridal,ivy@sagebridal.com,2026-09-05,2026-09-19,900.00,paid,Reels Pack 9/4
+INV-1129,Calm and Collected,renee@calmandcollected.fm,2026-09-08,2026-09-22,300.00,paid,Podcast Studio 2hr 9/7
+INV-1130,Cedar Fitness,kim@cedarfit.co,2026-09-08,2026-09-22,900.00,unpaid,Reels Pack 9/7
+INV-1131,Clearwater,brooke@clearwatermedspa.com,2026-09-09,2026-09-23,1500.00,paid,Content Day 9/7
+INV-1132,Riverbend Media Team,media@riverbenddfw.org,2026-09-12,2026-09-26,255.00,paid,Podcast Studio 2hr 9/9
+INV-1133,Oak Cliff Realty,nadia@oakcliffrealty.com,2026-09-20,2026-10-04,1500.00,unpaid,B146 Content Day
+INV-1134,Dallas Builders,david@dallasbuilders.fm,2026-09-21,2026-10-05,550.00,paid,
+INV-1135,Kindred Creative,rosa@kindredmktg.com,2026-09-22,2026-10-06,900.00,paid,Reels Pack 9/21
+INV-1136,Canyonlab Coffee,angela@thecanyonlab.coffee,2026-09-22,2026-10-06,900.00,unpaid,B142 Reels Pack
+INV-1137,Dr. Joy Delgado,hello@delgadodental.com,2026-09-22,2026-10-06,1500.00,unpaid,Content Day 9/22
+INV-1138,C&C Podcast,renee@calmandcollected.fm,2026-09-23,2026-10-07,300.00,unpaid,B140 Podcast Studio 2hr
+INV-1139,Alan Sullivan,info@sullivanfamilylaw.com,2026-09-23,2026-10-07,900.00,paid,B139 Reels Pack
+INV-1140,Morales Auto,priya.morales.detail@gmail.com,2026-09-26,2026-10-10,900.00,paid,Reels Pack 9/23
+INV-1141,Calm & Collected Podcast,renee@calmandcollected.fm,2026-09-28,2026-10-12,300.00,unpaid,B148 Podcast Studio 2hr
+INV-1142,Riverbend Media Team,media@riverbenddfw.org,2026-09-29,2026-10-13,255.00,unpaid,Podcast Studio 2hr 9/28
+INV-1143,Oak Cliff Realty LLC,nadia@oakcliffrealty.com,2026-10-01,2026-10-15,1500.00,unpaid,
+INV-1144,Kingsley Wealth,dfischer@kingsleywp.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1145,Price Law Firm,jprice@pricelaw.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1146,Willow Athletics,omar@willowathletics.com,2026-10-01,2026-10-15,900.00,unpaid,
+INV-1147,Bluebonnet Physical Therapy,mwebb@bluebonnetptdallas.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1148,Westlake Lab,lena@thewestlakelab.coffee,2026-10-02,2026-10-16,900.00,unpaid,
+INV-1149,Copperline Builders LLC,femi@copperline.build,2026-10-03,2026-10-17,1500.00,unpaid,B151 Content Day
+INV-1150,Kim Hale,kim@cedarfit.co,2026-10-05,2026-10-19,900.00,unpaid,Reels Pack 10/5
+INV-1151,Dallas Builders Podcast,david@dallasbuilders.fm,2026-10-05,2026-10-19,550.00,unpaid,
+INV-1152,Calm & Collected Podcast,renee@calmandcollected.fm,2026-10-05,2026-10-19,300.00,unpaid,B153 Podcast Studio 2hr
+INV-1153,Kindred Creative,rosa@kindredmktg.com,2026-10-05,2026-10-19,900.00,unpaid,Reels Pack 10/5
+INV-1154,Jordans Roofing,jordan@jordansroofingtx.com,2026-10-06,2026-10-20,900.00,unpaid,Reels Pack 10/5
+INV-1155,Riverbend DFW,media@riverbenddfw.org,2026-10-06,2026-10-20,255.00,unpaid,Podcast Studio 2hr 10/5
+INV-1156,Clearwater Med Spa,brooke@clearwatermedspa.com,2026-06-05,2026-06-19,1500.00,void,B039 Content Day

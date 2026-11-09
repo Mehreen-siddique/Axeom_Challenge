@@ -1,0 +1,125 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,04/04/2026,Riverbend Media Team,media@riverbenddfw.org,300.00,ACH,INV-1001
+P5002,10/04/2026,Renee Lopez,renee@calmandcollected.fm,300.00,card,INV-1003
+P5003,15/04/2026,Magnolia Builders LLC,victor@magnolia.build,1500.00,card,INV-1006
+P5004,21/04/2026,C&C Podcast,renee@calmandcollected.fm,300.00,Zelle,INV-1009
+P5005,22/04/2026,KELSEY SULLIVAN,kelsey@sullivandental.com,1500.00,card,INV-1005
+P5006,25/04/2026,Dallas Builders,david@dallasbuilders.fm,550.00,Zelle,INV-1004
+P5007,26/04/2026,Riverbend Church,media@riverbenddfw.org,300.00,card,INV-1007
+P5008,30/04/2026,DARNELL MALIK,media@riverbenddfw.org,300.00,card,INV-1002
+P5009,01/05/2026,Clearwater Med Spa,brooke@clearwatermedspa.com,1500.00,ACH,
+P5010,02/05/2026,JORDAN MENDEZ,jordan@jordansroofingtx.com,900.00,Zelle,
+P5011,03/05/2026,David Castillo,david@dallasbuilders.fm,550.00,card,INV-1013
+P5012,06/05/2026,RIVERBEND DFW,media@riverbenddfw.org,300.00,ACH,
+P5013,10/05/2026,Bluebonnet PT,mwebb@bluebonnetptdallas.com,2500.00,Zelle,INV-1014
+P5014,13/05/2026,Riverbend Church,media@riverbenddfw.org,300.00,ACH,INV-1011
+P5015,14/05/2026,SAGE BRIDAL BOUTIQUE,ivy@sagebridal.com,900.00,card,INV-1012
+P5016,16/05/2026,CALM & COLLECTED PODCAST,renee@calmandcollected.fm,300.00,Zelle,
+P5017,17/05/2026,Dallas Builders,david@dallasbuilders.fm,550.00,Zelle,INV-1022
+P5018,19/05/2026,KINGSLEY WP,dfischer@kingsleywp.com,2500.00,card,INV-1015
+P5019,19/05/2026,WHITFIELD INSURANCE GROUP,will@whitfieldinsures.com,2500.00,ACH,
+P5020,21/05/2026,Riverbend DFW,media@riverbenddfw.org,300.00,card,
+P5021,22/05/2026,Cedar,kim@cedarfit.co,900.00,card,
+P5022,26/05/2026,JEN ZAMORA,jen@highlandmedspa.com,900.00,card,INV-1023
+P5023,27/05/2026,JORDANS ROOFING,jordan@jordansroofingtx.com,900.00,card,INV-1026
+P5024,29/05/2026,CALM & COLLECTED PODCAST,renee@calmandcollected.fm,300.00,card,
+P5025,30/05/2026,Dallas Builders,david@dallasbuilders.fm,550.00,card,
+P5026,01/06/2026,Riverbend Media Team,media@riverbenddfw.org,300.00,card,INV-1032
+P5027,02/06/2026,Bayou Barbers,sam@bayoubarbers.com,900.00,card,INV-1028
+P5028,03/06/2026,SAGE BRIDAL,ivy@sagebridal.com,900.00,ACH,INV-1031
+P5029,04/06/2026,DAVID FISCHER,dfischer@kingsleywp.com,2500.00,Zelle,INV-1037
+P5030,04/06/2026,BLUEBONNET PHYSICAL THERAPY,mwebb@bluebonnetptdallas.com,2500.00,Zelle,INV-1035
+P5031,06/06/2026,Riverbend Media Team,media@riverbenddfw.org,300.00,Zelle,INV-1027
+P5032,06/06/2026,WILL WHITFIELD,will@whitfieldinsures.com,2500.00,ACH,INV-1034
+P5033,07/06/2026,RENEE LOPEZ,renee@calmandcollected.fm,300.00,card,
+P5034,10/06/2026,Price Law Firm PLLC,jprice@pricelaw.com,2500.00,ACH,INV-1036
+P5035,11/06/2026,DR. KELSEY SULLIVAN,kelsey@sullivandental.com,1500.00,card,
+P5036,11/06/2026,ALAN SULLIVAN,info@sullivanfamilylaw.com,900.00,ACH,INV-1047
+P5037,14/06/2026,DR. JOY DELGADO,hello@delgadodental.com,1500.00,ACH,INV-1038
+P5038,14/06/2026,Renee Lopez,renee@calmandcollected.fm,300.00,ACH,INV-1029
+P5039,15/06/2026,Calm & Collected Podcast,renee@calmandcollected.fm,300.00,card,INV-1042
+P5040,15/06/2026,DALLAS BUILDERS PODCAST,david@dallasbuilders.fm,550.00,ACH,INV-1046
+P5041,16/06/2026,Riverbend Church,media@riverbenddfw.org,255.00,card,
+P5042,17/06/2026,Riverbend Church,media@riverbenddfw.org,255.00,Zelle,INV-1041
+P5043,18/06/2026,Cedar Fit,kim@cedarfit.co,900.00,ACH,INV-1039
+P5044,21/06/2026,Magnolia,victor@magnolia.build,1500.00,ACH,INV-1044
+P5045,22/06/2026,Oak Cliff Realty LLC,nadia@oakcliffrealty.com,1500.00,card,INV-1033
+P5046,23/06/2026,Calm and Collected,renee@calmandcollected.fm,300.00,card,INV-1052
+P5047,25/06/2026,RENEE LOPEZ,renee@calmandcollected.fm,300.00,card,
+P5049,26/06/2026,Westlake Lab,lena@thewestlakelab.coffee,900.00,card,INV-1053
+P5050,27/06/2026,CLEARWATER MED SPA,brooke@clearwatermedspa.com,1500.00,ACH,
+P5051,01/07/2026,Riverbend Media Team,media@riverbenddfw.org,255.00,card,INV-1048
+P5052,01/07/2026,Dallas Builders,david@dallasbuilders.fm,550.00,Zelle,INV-1055
+P5053,01/07/2026,Highland Med Spa,jen@highlandmedspa.com,900.00,card,INV-1050
+P5054,01/07/2026,Riverbend Media Team,media@riverbenddfw.org,255.00,ACH,INV-1054
+P5055,02/07/2026,Jordan Mendez,jordan@jordansroofingtx.com,900.00,card,
+P5056,02/07/2026,MIA WEBB,mwebb@bluebonnetptdallas.com,2500.00,ACH,INV-1060
+P5057,02/07/2026,Price Law,jprice@pricelaw.com,2500.00,Zelle,
+P5058,03/07/2026,Kingsley Wealth Partners,dfischer@kingsleywp.com,2500.00,card,INV-1061
+P5059,03/07/2026,KIM HALE,kim@cedarfit.co,900.00,card,
+P5060,03/07/2026,KINDRED CREATIVE LLC,rosa@kindredmktg.com,900.00,ACH,Kindred Jun invoices
+P5061,03/07/2026,Copperline,femi@copperline.build,1500.00,Zelle,
+P5062,10/07/2026,Dallas Builders,david@dallasbuilders.fm,550.00,ACH,INV-1067
+P5063,13/07/2026,Sullivan Dental,kelsey@sullivandental.com,1500.00,card,
+P5064,14/07/2026,SAGE BRIDAL,ivy@sagebridal.com,900.00,card,
+P5065,15/07/2026,DARNELL MALIK,media@riverbenddfw.org,255.00,Zelle,
+P5066,16/07/2026,Nadia Delgado,nadia@oakcliffrealty.com,1500.00,card,INV-1068
+P5067,23/07/2026,RENEE LOPEZ,renee@calmandcollected.fm,300.00,ACH,INV-1078
+P5068,23/07/2026,BAYOU BARBERS,sam@bayoubarbers.com,900.00,card,INV-1058
+P5069,23/07/2026,Calm & Collected Podcast,renee@calmandcollected.fm,300.00,Zelle,
+P5070,24/07/2026,SAM HASSAN,sam@bayoubarbers.com,900.00,Zelle,INV-1058
+P5071,25/07/2026,DR. JOY DELGADO,hello@delgadodental.com,1500.00,card,INV-1066
+P5072,25/07/2026,DARNELL MALIK,media@riverbenddfw.org,255.00,ACH,INV-1076
+P5073,25/07/2026,PASTOR DARNELL MALIK,media@riverbenddfw.org,255.00,card,INV-1065
+P5074,25/07/2026,Alan Sullivan,info@sullivanfamilylaw.com,900.00,card,
+P5075,26/07/2026,C&C Podcast,renee@calmandcollected.fm,300.00,ACH,INV-1071
+P5076,27/07/2026,Dallas Builders Podcast,david@dallasbuilders.fm,550.00,ACH,INV-1079
+P5077,31/07/2026,Riverbend Media Team,media@riverbenddfw.org,255.00,card,
+P5078,31/07/2026,MAGNOLIA BUILDERS,victor@magnolia.build,1500.00,ACH,INV-1074
+P5079,01/08/2026,Jordan's Roofing LLC,jordan@jordansroofingtx.com,900.00,card,INV-1081
+P5080,01/08/2026,SAM HASSAN,sam@bayoubarbers.com,900.00,card,
+P5081,03/08/2026,KINDRED CREATIVE LLC,rosa@kindredmktg.com,2700.00,ACH,Kindred Jul invoices
+P5082,03/08/2026,Kingsley WP,dfischer@kingsleywp.com,2500.00,card,INV-1090
+P5083,04/08/2026,MORALES AUTO,priya.morales.detail@gmail.com,900.00,card,INV-1080
+P5084,04/08/2026,Maple Therapy,jhale@maplefamilytherapy.com,1500.00,ACH,INV-1072
+P5085,05/08/2026,THE WESTLAKE LAB,lena@thewestlakelab.coffee,900.00,card,INV-1087
+P5086,05/08/2026,Canyonlab Coffee,angela@thecanyonlab.coffee,900.00,ACH,INV-1073
+P5087,08/08/2026,Willow Athletics,omar@willowathletics.com,900.00,ACH,INV-1095
+P5088,09/08/2026,CALM & COLLECTED PODCAST,renee@calmandcollected.fm,300.00,card,INV-1083
+P5089,10/08/2026,DARNELL MALIK,media@riverbenddfw.org,255.00,card,INV-1097
+P5090,14/08/2026,Ivy Whitfield,ivy@sagebridal.com,900.00,card,INV-1094
+P5091,14/08/2026,HIGHLAND MEDSPA,jen@highlandmedspa.com,900.00,card,INV-1085
+P5092,16/08/2026,Greg's Roofing,greg@gregsroofingtx.com,900.00,card,INV-1092
+P5093,16/08/2026,Bluebonnet PT Dallas,mwebb@bluebonnetptdallas.com,2250.00,card,INV-1088
+P5094,18/08/2026,Cedar,kim@cedarfit.co,900.00,ACH,INV-1091
+P5095,21/08/2026,RIVERBEND CHURCH,media@riverbenddfw.org,255.00,card,INV-1101
+P5096,22/08/2026,KELSEY SULLIVAN,kelsey@sullivandental.com,1500.00,card,INV-1105
+P5097,23/08/2026,JORDAN PRICE,jprice@pricelaw.com,2500.00,Zelle,INV-1089
+P5098,26/08/2026,THE CANYON LAB,angela@thecanyonlab.coffee,900.00,card,INV-1102
+P5099,27/08/2026,David Castillo,david@dallasbuilders.fm,550.00,Zelle,INV-1093
+P5100,29/08/2026,DALLAS BUILDERS PODCAST,david@dallasbuilders.fm,550.00,card,INV-1103
+P5101,29/08/2026,Delgado Dental PLLC,hello@delgadodental.com,1500.00,card,
+P5102,29/08/2026,Priya Morales,priya.morales.detail@gmail.com,900.00,card,INV-1111
+P5103,02/09/2026,Dr. Jen Hale,jhale@maplefamilytherapy.com,1500.00,Zelle,INV-1109
+P5104,03/09/2026,RIVERBEND CHURCH,media@riverbenddfw.org,255.00,card,INV-1118
+P5105,03/09/2026,KINDRED CREATIVE LLC,rosa@kindredmktg.com,1800.00,ACH,Kindred Aug invoices
+P5106,05/09/2026,RENEE LOPEZ,,1200.00,Zelle,august sessions
+P5107,06/09/2026,Magnolia & Co Builders,victor@magnolia.build,1500.00,ACH,INV-1115
+P5108,09/09/2026,Kim Auto,andre.kim.detail@gmail.com,1500.00,card,
+P5109,10/09/2026,Kingsley WP,dfischer@kingsleywp.com,2500.00,ACH,
+P5110,10/09/2026,BLUEBONNET PT,mwebb@bluebonnetptdallas.com,2500.00,card,INV-1122
+P5111,11/09/2026,Sam Hassan,sam@bayoubarbers.com,900.00,card,
+P5112,11/09/2026,GREG OCHOA,,450.00,Zelle,half now half later
+P5113,12/09/2026,Ivy Whitfield,ivy@sagebridal.com,900.00,ACH,INV-1128
+P5114,14/09/2026,Highland Medspa,jen@highlandmedspa.com,900.00,card,INV-1123
+P5115,15/09/2026,CEDAR,kim@cedarfit.co,900.00,Zelle,INV-1130
+P5116,18/09/2026,Oak Cliff Realty,nadia@oakcliffrealty.com,1500.00,Zelle,INV-1119
+P5117,18/09/2026,THE WESTLAKE LAB,lena@thewestlakelab.coffee,900.00,card,INV-1113
+P5118,21/09/2026,CLEARWATER MED SPA,brooke@clearwatermedspa.com,1500.00,ACH,
+P5119,26/09/2026,C&C PODCAST,renee@calmandcollected.fm,300.00,Zelle,INV-1129
+P5120,26/09/2026,Willow Athletics,omar@willowathletics.com,900.00,card,
+P5121,29/09/2026,MORALES AUTO DETAILING,priya.morales.detail@gmail.com,900.00,Zelle,INV-1140
+P5122,30/09/2026,Riverbend Church,media@riverbenddfw.org,255.00,card,
+P5123,03/10/2026,KINDRED CREATIVE LLC,rosa@kindredmktg.com,900.00,ACH,Kindred Sep invoices
+P5124,05/10/2026,Sullivan Law,info@sullivanfamilylaw.com,900.00,card,INV-1139
+P5125,06/10/2026,DAVID CASTILLO,david@dallasbuilders.fm,550.00,Zelle,
